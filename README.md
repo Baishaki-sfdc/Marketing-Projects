@@ -11,7 +11,7 @@
 [Marketing-Campaign](https://github.com/Baishaki-sfdc/Marketing-Campaign-Data)
 
 ## Ecommerce GA4 Dashboard
-
+[GA4 Dashboard](https://github.com/Baishaki-sfdc/Ecommerce-GA-4-Dashboard/blob/main/README.md)
 
 ## Optimize Marketing Campaign 
 
